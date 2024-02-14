@@ -57,5 +57,3 @@ References
 The mushroom dataset is originally from the Audobon Society Field Guide to North American Mushrooms (1981).
 
 UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Mushroom
-
-Let me know if you need any clarification or have additional suggestions to improve this README!
